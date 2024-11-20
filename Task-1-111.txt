@@ -25,6 +25,8 @@ InventorySystem
 <Line 14, 18, 28, 29>, <Primitive Obsession>, Use of String for product category, discount, createdAt(DATE), status
 <Lines 170-197>, <Duplicate Method>, report generation methods do similar calculations.
 <Line 170, 185>, <Poor Naming>, Naming Convention, Method names should not start with uppercase
+<Lines 107,114,124,140>, <Message Chaining>, calling a series of methods depending on each other
+
 
 ReportScheduler
 <Line 3>, <Bad Naming>, Wrong naming format of class. It should be upper camelcase.
